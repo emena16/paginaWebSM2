@@ -127,7 +127,7 @@
                         <div class="card">
                             <div class="card-header" id="headingTwo">
                                 <h2 class="mb-0">
-                                    <a href="#" class="btn-link collapsed"  data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Starts the automated process.</a>
+                                    <a href="#" class="btn-link collapsed"  data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Eficiencia de trabajo.</a>
                                 </h2>
                             </div>
                             <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
@@ -142,10 +142,10 @@
                         <div class="card">
                             <div class="card-header" id="headingOne">
                                 <h2 class="mb-0">
-                                    <a href="#" class="btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">The automated process starts.</a>
+                                    <a href="#" class="btn-link collapsed" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">The automated process starts.</a>
                                 </h2>
                             </div>
-                            <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+                            <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
                                 <div class="card-body">
                                     The automated process starts as soon as 
                                     your clothes go into the machine. Duis cursus, mi 
@@ -218,16 +218,16 @@
                             <div class="single-testimonial position-relative">
                                 <div class="testimonial-caption">
                                     <img src="assets/img/icon/quotes-sign.png" alt="" class="quotes-sign">
-                                    <p>Brook presents your services with flexible, convenient and cdpose layouts. You can select your favorite layouts & elements for cular ts with unlimited ustomization possibilities. Pixel-perfect replica;ition of thei designers ijtls intended csents your se.</p>
+                                    <p>El vino es un portal que puede transportarnos a otro lugar y enterrarnos bajo su suelo. Es beber cultura y tradiciones del pueblo y las manos que le dieron vida.</p>
                                 </div>
                                 <!-- founder -->
                                 <div class="testimonial-founder d-flex align-items-center">
                                     <div class="founder-img">
-                                        <img src="assets/img/icon/testimonial.png" alt="">
+                                        <img src="assets/img/gallery/lz-log-neg.png" width="82px" height="82px" alt="">
                                     </div>
                                     <div class="founder-text">
-                                        <span>Robart Brown</span>
-                                        <p>Creative designer at Colorlib</p>
+                                        <span>Germán Molina</span>
+                                        <p>CEO Lazarus Bar</p>
                                     </div>
                                 </div>
                             </div>
@@ -235,7 +235,7 @@
                             <div class="single-testimonial position-relative">
                                 <div class="testimonial-caption">
                                     <img src="assets/img/icon/quotes-sign.png" alt="" class="quotes-sign">
-                                    <p>Brook presents your services with flexible, convenient and cdpose layouts. You can select your favorite layouts & elements for cular ts with unlimited ustomization possibilities. Pixel-perfect replica;ition of thei designers ijtls intended csents your se.</p>
+                                    <p>FEPRO como impulsor de ideas es una de las joyas que ofrece a los estudiantes de la facultad de ciendias de computacion, la expericia de exponer proyectos a empresarios y pode inpulsarlos a ser lideres en el area de TI.</p>
                                 </div>
                                 <!-- founder -->
                                 <div class="testimonial-founder d-flex align-items-center">
@@ -243,8 +243,8 @@
                                         <img src="assets/img/icon/testimonial.png" alt="">
                                     </div>
                                     <div class="founder-text">
-                                        <span>Robart Brown</span>
-                                        <p>Creative designer at Colorlib</p>
+                                        <span>Yalú Galicia</span>
+                                        <p>Cordinadora General de FEPRO</p>
                                     </div>
                                 </div>
                             </div>
@@ -263,8 +263,8 @@
                 <div class="cl-xl-7 col-lg-8 col-md-10">
                     <!-- Section Tittle -->
                     <div class="section-tittle text-center mb-70">
-                        <span>Case studies</span>
-                        <h2>Some great stuffs we have done</h2>
+                        <span>Casos de éxito</span>
+                        <h2>Algunas cosas geniales que hemos hecho</h2>
                     </div> 
                 </div>
             </div>
@@ -272,11 +272,11 @@
                 <!-- Single -->
                 <div class="single-blogs">
                     <div class="blog-img">
-                        <img src="assets/img/gallery/blogs1.png" alt="">
+                        <img src="assets/img/gallery/back-lazarus.png" alt="">
                     </div>
                     <div class="blogs-cap">
-                        <h5><a href="#">Starts the automated process.</a></h5>
-                        <p>The automated process starts as soon as your  clothes go into the machine.</p>
+                        <h5><a href="#">LAZARUS BAR.</a></h5>
+                        <p>Uno de nuestros primero clientes satisfechos por el trabajo de nuestro equipo.</p>
                     </div>
                     <div class="stickers">
                         <span>Urban</span>
@@ -378,7 +378,7 @@
                         </div>
                         <div class="team-caption">
                             <h3><a href="#">Daritza Sartillo</a></h3>
-                            <p>Senior Web Developer</p>
+                            <p> Web Developer</p>
                         </div>
                         <!-- Blog Social -->
                     </div>
@@ -398,7 +398,7 @@
                         </div>
                         <div class="team-caption">
                             <h3><a href="#">Pedro Mixtega</a></h3>
-                            <p>Senior App Developer</p>
+                            <p> App Developer</p>
                         </div>
                         <!-- Blog Social -->
                     </div>
@@ -418,7 +418,7 @@
                         </div>
                         <div class="team-caption">
                             <h3><a href="#">Citlalli Serrano</a></h3>
-                            <p>Senior Database Especialist</p>
+                            <p> Database Especialist</p>
                         </div>
                         <!-- Blog Social -->
                     </div>
@@ -438,7 +438,7 @@
                         </div>
                         <div class="team-caption">
                             <h3><a href="#">J. Eduardo Mena</a></h3>
-                            <p>Senior Backend Developer</p>
+                            <p> Backend Developer</p>
                         </div>
                         <!-- Blog Social -->
                     </div>

@@ -1,4 +1,3 @@
-
 <footer>
     <div class="footer-wrapper section-bg2 pl-100"  data-background="assets/img/gallery/footer_bg.png">
         <!-- Footer Start-->
@@ -14,7 +13,7 @@
                                 </div>
                                 <div class="footer-tittle">
                                     <div class="footer-pera">
-                                        <p>Servicios Tecnologicos de TI Sartillo Mixtega y Mena</p>
+                                        <p>Servicios Tecnologicos de TI Sartillo Mixtega y Mena S. de R.L.</p>
                                     </div>
                                 </div>
                                 <!-- social -->
