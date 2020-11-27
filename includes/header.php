@@ -77,7 +77,8 @@
                             </div>
                             <!-- left Btn -->
                             <div class="header-right-btn f-right d-none d-lg-block  ml-30">
-                                <a href="#" class="header-btn">Agendar una cita</a>
+                                <!-- <a href="#" class="header-btn">Agendar una cita</a> -->
+                                <a href="#" class="btn"  data-animation="fadeInLeft" data-delay=".9s" >Agendar Cita</a>
                             </div>
                         </div>
                     </div>             
