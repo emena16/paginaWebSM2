@@ -46,7 +46,7 @@
                     <div class="services-img">
                         <img src="assets/img/gallery/team1.png" alt="">
                         <div class="services-caption">
-                            <h3><a href="#">App Developer</a></h3>
+                            <h3><a href="#">App Mobile Developer</a></h3>
                             <p>The automated process starts as soon <br>as your clothes go into the machine.</p>
                             <a href="#" class="btn btn3">Pedro Mixtega Hdz.</a>
                         </div>
@@ -76,7 +76,7 @@
                     <div class="services-img">
                         <img src="assets/img/gallery/team2.png" alt="">
                         <div class="services-caption">
-                            <h3><a href="#">Database Developer</a></h3>
+                            <h3><a href="#">SCRUM Manager</a></h3>
                             <p>The automated process starts as soon <br>as your clothes go into the machine.</p>
                             <a href="#" class="btn btn3">Citlalli Serrano</a>
                         </div>
@@ -99,7 +99,7 @@
                 <div class="section-tittle mb-50">
                     <h2>Nuestra<br>Filosofía</h2>
                 </div>
-                <div class="about-more">
+                <div class="about-more text-justify">
                     <p>Es impensable una evolución en las empresas separada de Internet y las nuevas tecnologías, debido a la tendencia que se muestra la cual indica que vamos camino a una sociedad en la que los dispositivos serán tan fáciles de utilizar que pronto pasarán a formar parte del día a día de los empleados, mejorando así su calidad de vida laboral.</p>
                     <p class="pera-bottom">Utilizamos las mejores tecnologías que más se adapten a las necesidades de nuestros clientes, desarrollando un software funcional hecho a media.</p>
                     <div class="footer-tittles">
@@ -285,11 +285,11 @@
                 <!-- Single -->
                 <div class="single-blogs">
                     <div class="blog-img">
-                        <img src="assets/img/gallery/blogs2.png" alt="">
+                        <img src="assets/img/gallery/environment.png" alt="">
                     </div>
                     <div class="blogs-cap">
-                        <h5><a href="#">Starts the automated process.</a></h5>
-                        <p>The automated process starts as soon as your  clothes go into the machine.</p>
+                        <h5><a href="#">Ennvironment Monitor.</a></h5>
+                        <p>Un sistema de monitoreo ambiental para pacientos con cuidados intencivos.</p>
                     </div>
                     <div class="stickers">
                         <span>Urban</span>
@@ -298,11 +298,11 @@
                 <!-- Single -->
                 <div class="single-blogs">
                     <div class="blog-img">
-                        <img src="assets/img/gallery/blogs3.png" alt="">
+                        <img width="80%" height="80%" src="assets/img/gallery/citii.jpg" class="img-fluid img-thumbnail" alt="">
                     </div>
                     <div class="blogs-cap">
-                        <h5><a href="#">Starts the automated process.</a></h5>
-                        <p>The automated process starts as soon as your  clothes go into the machine.</p>
+                        <h5><a href="#">Sistema de registro CITTI BUAP 2019</a></h5>
+                        <p>Sistema de gestión de asistentes e invitados al congreso.</p>
                     </div>
                     <div class="stickers">
                         <span>Urban</span>
@@ -398,7 +398,7 @@
                         </div>
                         <div class="team-caption">
                             <h3><a href="#">Pedro Mixtega</a></h3>
-                            <p> App Developer</p>
+                            <p> App Mobile Developer</p>
                         </div>
                         <!-- Blog Social -->
                     </div>
@@ -418,7 +418,7 @@
                         </div>
                         <div class="team-caption">
                             <h3><a href="#">Citlalli Serrano</a></h3>
-                            <p> Database Especialist</p>
+                            <p>SCRUM Manager</p>
                         </div>
                         <!-- Blog Social -->
                     </div>
@@ -447,26 +447,7 @@
         </div>
     </section>
     <!-- Team Ara End -->
-    <!--? Want To work -->
-    <section class="wantToWork-area section-bg2"  data-background="assets/img/gallery/section_bg01.png">
-        <div class="container">
-            <div class="wants-wrapper w-padding2">
-                <div class="row align-items-center justify-content-between">
-                    <div class="col-xl-7 col-lg-7 col-md-12">
-                        <div class="wantToWork-caption wantToWork-caption2">
-                            <h2>Need a consulting services?</h2>
-                            <p>The automated process starts as soon as your clothes go into the machine. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla.</p>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-lg-4 col-md-6">
-                        <a href="#" class="btn w-btn wantToWork-btn mr-20">Make an Appointment</a>
-                        <a href="#" class="btn2 w-btn wantToWork-btn"><i class="fas fa-phone"></i> (89) 673 378-309</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Want To work End -->
+    
 </main>
 
 <?php require('includes/footer.php'); ?>
