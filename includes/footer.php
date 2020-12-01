@@ -1,3 +1,23 @@
+<!--? Want To work -->
+    <section class="wantToWork-area section-bg2"  data-background="assets/img/gallery/section_bg01.png">
+        <div class="container">
+            <div class="wants-wrapper w-padding2">
+                <div class="row align-items-center justify-content-between">
+                    <div class="col-xl-7 col-lg-7 col-md-12">
+                        <div class="wantToWork-caption wantToWork-caption2">
+                            <h2>¿Necesita servicios de consultoría?</h2>
+                            <p>The automated process starts as soon as your clothes go into the machine. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla.</p>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-6">
+                        <a href="#" class="btn w-btn wantToWork-btn mr-20">Agendar una cita</a>
+                        <a href="#" class="btn2 w-btn wantToWork-btn"><i class="fas fa-phone"></i> (+52) 248 101 6430</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Want To work End -->
 <footer>
     <div class="footer-wrapper section-bg2 pl-100"  data-background="assets/img/gallery/footer_bg.png">
         <!-- Footer Start-->
@@ -13,7 +33,7 @@
                                 </div>
                                 <div class="footer-tittle">
                                     <div class="footer-pera">
-                                        <p>Servicios Tecnologicos de TI Sartillo Mixtega y Mena S. de R.L.</p>
+                                        <p>Servicios Tecnologicos de TI Sartillo Mixtega y Mena</p>
                                     </div>
                                 </div>
                                 <!-- social -->
@@ -28,12 +48,12 @@
                     <div class="col-xl-2 col-lg-4 col-md-4 col-sm-6">
                         <div class="single-footer-caption mb-50">
                             <div class="footer-tittle">
-                                <h4>Our solutions</h4>
+                                <h4>Nuestras Soluciones</h4>
                                 <ul>
-                                    <li><a href="#">Design & creatives</a></li>
-                                    <li><a href="#">Telecommunication</a></li>
-                                    <li><a href="#">Restaurant</a></li>
-                                    <li><a href="#">Programing</a></li>
+                                    <li><a href="#">Diseño y Creatividades</a></li>
+                                    <li><a href="#">Telecommunicaciones</a></li>
+                                    <li><a href="#">Restaurante</a></li>
+                                    <li><a href="#">Programación</a></li>
                                     <!-- <li><a href="#">Architecture</a></li> -->
                                 </ul>
                             </div>
@@ -42,13 +62,13 @@
                     <div class="col-xl-2 col-lg-4 col-md-4 col-sm-6">
                         <div class="single-footer-caption mb-50">
                             <div class="footer-tittle">
-                                <h4>Company</h4>
+                                <h4>Empresa</h4>
                                 <ul>
-                                    <li><a href="#">About</a></li>
-                                    <li><a href="#">Review</a></li>
-                                    <li><a href="#">Insights</a></li>
-                                    <li><a href="#">Programing</a></li>
-                                    <li><a href="#">Carrier</a></li>
+                                    <li><a href="#">Acerca de</a></li>
+                                    <li><a href="#">Reviosión</a></li>
+                                    <li><a href="#">Servicios</a></li>
+                                    <!-- <li><a href="#">Programing</a></li> -->
+                                    <!-- <li><a href="#">Carrier</a></li> -->
                                 </ul>
                             </div>
                         </div>
@@ -56,10 +76,10 @@
                     <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6">
                         <div class="single-footer-caption mb-50">
                             <div class="footer-tittle">
-                                <h4>Contact us</h4>
+                                <h4>Contáctenos</h4>
                                 <ul>
-                                    <li><a href="#">consulto98@gmail.com</a></li>
-                                    <li><a href="#">76/A, Green road, NYC</a></li>
+                                    <li><a href="#">contacto@proyectos-sm.com</a></li>
+                                    <li><a href="#">San Martín Texmelucan, Puebla, México</a></li>
                                     <li class="number"><a href="#">(+52) 248 101-6430</a></li>
                                 </ul>
                             </div>
@@ -76,7 +96,7 @@
                         <div class="col-xl-12 ">
                             <div class="footer-copy-right">
                                 <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                                  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+                                  Copyright &copy;<script>document.write(new Date().getFullYear());</script> Todos los derechos reservados | Hecho con <i class="fa fa-heart" aria-hidden="true"></i> por <a href="https://colorlib.com" target="_blank">Colorlib</a>
                                   <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
                               </div>
                           </div>
