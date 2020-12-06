@@ -13,7 +13,7 @@
                     <div class="hero-caption">
                         <span>El Mejor Servicio</span>
                         <h1 data-animation="fadeInLeft" data-delay=".4s">Servicios Tecnológicos</h1>
-                        <p data-animation="fadeInLeft" data-delay=".6s">Soluciones creativas e innovadoras para hacer que tú negocio crezca.</p>
+                        <p data-animation="fadeInLeft" data-delay=".6s">Soluciones creativas e innovadoras que generan gran rentabilidad.</p>
                         <!-- Hero Btn -->
                         <a href="#" class="btn"  data-animation="fadeInLeft" data-delay=".9s" >Explorar Servicios</a>
                     </div>
@@ -48,7 +48,7 @@
                         <div class="services-caption">
                             <h3><a href="#">App Mobile Developer</a></h3>
                             <p>The automated process starts as soon <br>as your clothes go into the machine.</p>
-                            <a href="#" class="btn btn3">Pedro Mixtega Hdz.</a>
+                            <a href="#" class="btn btn3">Pedro Mixtega</a>
                         </div>
                     </div>
                 </div>
@@ -58,7 +58,7 @@
                         <div class="services-caption">
                             <h3><a href="#">Web Developer</a></h3>
                             <p>The automated process starts as soon <br>as your clothes go into the machine.</p>
-                            <a href="#" class="btn btn3">C. Daritza Sartillo</a>
+                            <a href="#" class="btn btn3">Daritza Sartillo</a>
                         </div>
                     </div>
                 </div>
@@ -68,7 +68,7 @@
                         <div class="services-caption">
                             <h3><a href="#">Backend Developer</a></h3>
                             <p>The automated process starts as soon <br>as your clothes go into the machine.</p>
-                            <a href="#" class="btn btn3">Jose E Mena</a>
+                            <a href="#" class="btn btn3">Jose E. Mena</a>
                         </div>
                     </div>
                 </div>
@@ -127,14 +127,12 @@
                         <div class="card">
                             <div class="card-header" id="headingTwo">
                                 <h2 class="mb-0">
-                                    <a href="#" class="btn-link collapsed"  data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Eficiencia de trabajo.</a>
+                                    <a href="#" class="btn-link collapsed"  data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Servicios de asesoramiento para proyectos estratégicos.</a>
                                 </h2>
                             </div>
                             <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
                                 <div class="card-body">
-                                    The automated process starts as soon as 
-                                    your clothes go into the machine. Duis cursus, mi 
-                                    quis viverra ornare.                                   
+                                    Somos una empresa de servicios de asesoramiento para proyectos estratégicos, diseño y despliegue de infraestructuras de sistemas, servidores y gestión de almacenamiento.                                 
                                 </div>
                             </div>
                         </div>
@@ -142,14 +140,12 @@
                         <div class="card">
                             <div class="card-header" id="headingOne">
                                 <h2 class="mb-0">
-                                    <a href="#" class="btn-link collapsed" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">The automated process starts.</a>
+                                    <a href="#" class="btn-link collapsed" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Aportamos a las empresas soluciones completas.</a>
                                 </h2>
                             </div>
                             <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
                                 <div class="card-body">
-                                    The automated process starts as soon as 
-                                    your clothes go into the machine. Duis cursus, mi 
-                                    quis viverra ornare.
+                                    Nos esforzamos en ofrecer un alto grado de valor añadido en todos los proyectos en los que estamos involucrados, proponiendo soluciones eficaces que maximicen la inversión realizada.
                                 </div>
                             </div>
                         </div>
@@ -157,14 +153,12 @@
                         <div class="card">
                             <div class="card-header" id="headingThree">
                                 <h2 class="mb-0">
-                                    <a href="#" class="btn-link collapsed"  data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">Automated process starts.</a>
+                                    <a href="#" class="btn-link collapsed"  data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">Más allá de las tendencias dominantes.</a>
                                 </h2>
                             </div>
                             <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
                                 <div class="card-body">
-                                    The automated process starts as soon as 
-                                    your clothes go into the machine. Duis cursus, mi 
-                                    quis viverra ornare.
+                                    Nuestro cometido es orientar en sus decisiones a nuestros clientes convirtiéndonos en su socio tecnológico.
                                 </div>
                             </div>
                         </div>
@@ -172,14 +166,12 @@
                         <div class="card">
                             <div class="card-header" id="headingfouree">
                                 <h2 class="mb-0">
-                                    <a href="#" class="btn-link collapsed" data-toggle="collapse" data-target="#collapseFoure" aria-expanded="false" aria-controls="collapseFoure">Process the automated magic.</a>
+                                    <a href="#" class="btn-link collapsed" data-toggle="collapse" data-target="#collapseFoure" aria-expanded="false" aria-controls="collapseFoure">Queremos ser la primera opción de las empresas en su camino hacia la transformación digital.</a>
                                 </h2>
                             </div>
                             <div id="collapseFoure" class="collapse" aria-labelledby="headingfouree" data-parent="#accordionExample">
                                 <div class="card-body">
-                                    The automated process starts as soon as 
-                                    your clothes go into the machine. Duis cursus, mi 
-                                    quis viverra ornare.
+                                    Nuestra visión de las TI es la de un mundo en continuo cambio que brinda un gran número de oportunidades.
                                 </div>
                             </div>
                         </div>
@@ -276,7 +268,7 @@
                     </div>
                     <div class="blogs-cap">
                         <h5><a href="#">LAZARUS BAR.</a></h5>
-                        <p>Uno de nuestros primero clientes satisfechos por el trabajo de nuestro equipo.</p>
+                        <p>Uno de nuestros primeros clientes satisfechos por el trabajo de nuestro equipo.</p>
                     </div>
                     <div class="stickers">
                         <span>Urban</span>
@@ -301,8 +293,8 @@
                         <img width="80%" height="80%" src="assets/img/gallery/citii.jpg" class="img-fluid img-thumbnail" alt="">
                     </div>
                     <div class="blogs-cap">
-                        <h5><a href="#">Sistema de registro CITTI BUAP 2019</a></h5>
-                        <p>Sistema de gestión de asistentes e invitados al congreso.</p>
+                        <h5><a href="#">Sistema CITII BUAP 2019</a></h5>
+                        <p>Sistema de gestión de asistentes e invitados al congreso con sede en BUAP.</p>
                     </div>
                     <div class="stickers">
                         <span>Urban</span>
