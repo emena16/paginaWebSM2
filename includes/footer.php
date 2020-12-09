@@ -6,7 +6,7 @@
                     <div class="col-xl-7 col-lg-7 col-md-12">
                         <div class="wantToWork-caption wantToWork-caption2">
                             <h2>¿Necesita servicios de consultoría?</h2>
-                            <p>The automated process starts as soon as your clothes go into the machine. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla.</p>
+                            <p>Nuestra sede central está ubicada en Publa y San Martin Tex, desde las que ofrecemos servicios a empresas e instituciones de toda la geografía poblana.</p>
                         </div>
                     </div>
                     <div class="col-xl-4 col-lg-4 col-md-6">
